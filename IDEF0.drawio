@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" pages="2">
   <diagram name="ШАБЛОН IDEFO" id="OaeRxgi2ebssUtC4XzDR">
-    <mxGraphModel dx="3273" dy="1853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2455" dy="1390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -439,7 +439,7 @@
         <mxCell id="YQCwadXmlwByS1ywspYG-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;" value="" vertex="1">
           <mxGeometry height="130" width="1240" x="2080" y="45" as="geometry" />
         </mxCell>
-        <mxCell id="YQCwadXmlwByS1ywspYG-10" edge="1" parent="1" source="YQCwadXmlwByS1ywspYG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=21;" target="YQCwadXmlwByS1ywspYG-53" value="Руководитель">
+        <mxCell id="YQCwadXmlwByS1ywspYG-10" edge="1" parent="1" source="YQCwadXmlwByS1ywspYG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=21;" target="YQCwadXmlwByS1ywspYG-53" value="Бухгалтер">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YQCwadXmlwByS1ywspYG-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Создать заявку&lt;/span&gt;" vertex="1">
@@ -577,7 +577,7 @@
         <mxCell id="YQCwadXmlwByS1ywspYG-47" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="120" width="200" x="2570" y="605.1799999999998" as="geometry" />
         </mxCell>
-        <mxCell id="YQCwadXmlwByS1ywspYG-48" parent="YQCwadXmlwByS1ywspYG-47" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;shadowOpacity=50;shadowOffsetX=15;shadowColor=#363636;shadowBlur=1;shadowOffsetY=15;comic=0;enumerate=0;treeMoving=0;treeFolding=0;backgroundOutline=0;metaEdit=0;collapsible=0;dropTarget=0;container=0;fixDash=0;noLabel=0;fontFamily=Verdana;fontSize=14;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Подписывает комиссия" vertex="1">
+        <mxCell id="YQCwadXmlwByS1ywspYG-48" parent="YQCwadXmlwByS1ywspYG-47" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;shadowOpacity=50;shadowOffsetX=15;shadowColor=#363636;shadowBlur=1;shadowOffsetY=15;comic=0;enumerate=0;treeMoving=0;treeFolding=0;backgroundOutline=0;metaEdit=0;collapsible=0;dropTarget=0;container=0;fixDash=0;noLabel=0;fontFamily=Verdana;fontSize=14;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Создать заявку на списание МЗ" vertex="1">
           <mxGeometry height="120" width="200" as="geometry" />
         </mxCell>
         <mxCell id="YQCwadXmlwByS1ywspYG-49" parent="YQCwadXmlwByS1ywspYG-47" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="$0" vertex="1">
@@ -589,12 +589,12 @@
         <mxCell id="YQCwadXmlwByS1ywspYG-51" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="120" width="200" x="2910" y="805.1799999999998" as="geometry" />
         </mxCell>
-        <mxCell id="YQCwadXmlwByS1ywspYG-52" edge="1" parent="YQCwadXmlwByS1ywspYG-51" source="YQCwadXmlwByS1ywspYG-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+        <mxCell id="YQCwadXmlwByS1ywspYG-52" edge="1" parent="YQCwadXmlwByS1ywspYG-51" source="YQCwadXmlwByS1ywspYG-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=21;" value="Заявка">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770.0000000000005" y="59.51230769230767" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YQCwadXmlwByS1ywspYG-53" parent="YQCwadXmlwByS1ywspYG-51" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;shadowOpacity=50;shadowOffsetX=15;shadowColor=#363636;shadowBlur=1;shadowOffsetY=15;comic=0;enumerate=0;treeMoving=0;treeFolding=0;backgroundOutline=0;metaEdit=0;collapsible=0;dropTarget=0;container=0;fixDash=0;noLabel=0;fontFamily=Verdana;fontSize=14;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Утверждает руководитель" vertex="1">
+        <mxCell id="YQCwadXmlwByS1ywspYG-53" parent="YQCwadXmlwByS1ywspYG-51" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;shadowOpacity=50;shadowOffsetX=15;shadowColor=#363636;shadowBlur=1;shadowOffsetY=15;comic=0;enumerate=0;treeMoving=0;treeFolding=0;backgroundOutline=0;metaEdit=0;collapsible=0;dropTarget=0;container=0;fixDash=0;noLabel=0;fontFamily=Verdana;fontSize=14;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Проверить заявку" vertex="1">
           <mxGeometry height="120" width="200" as="geometry" />
         </mxCell>
         <mxCell id="YQCwadXmlwByS1ywspYG-54" parent="YQCwadXmlwByS1ywspYG-51" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="$0" vertex="1">
@@ -610,10 +610,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YQCwadXmlwByS1ywspYG-57" edge="1" parent="1" source="YQCwadXmlwByS1ywspYG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.645;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=21;" target="YQCwadXmlwByS1ywspYG-48" value="Комиссия">
+        <mxCell id="YQCwadXmlwByS1ywspYG-57" edge="1" parent="1" source="YQCwadXmlwByS1ywspYG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.645;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=21;" target="YQCwadXmlwByS1ywspYG-48" value="МОЛ">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YQCwadXmlwByS1ywspYG-58" edge="1" parent="1" source="YQCwadXmlwByS1ywspYG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;" target="YQCwadXmlwByS1ywspYG-48" value="Акт списания">
+        <mxCell id="YQCwadXmlwByS1ywspYG-58" edge="1" parent="1" source="YQCwadXmlwByS1ywspYG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;" target="YQCwadXmlwByS1ywspYG-48" value="Пакет документов">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1920" y="665.1999999999998" />
